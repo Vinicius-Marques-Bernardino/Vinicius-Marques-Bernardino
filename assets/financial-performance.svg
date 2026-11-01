@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+<title id="title">Financial Performance Dashboard</title>
+<desc id="desc">BUSINESS INTELLIGENCE  ·  DATA VISUALIZATION. Projeto de análise de dados com Power BI, com análise descritiva e diagnóstica do desempenho comercial. Inclui organização dos dados, análise de indicadores e métricas relevantes e interpretação dos resultados para apoiar a tomada de decisões.</desc>
+<rect x="1" y="1" width="898" height="248" rx="16" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<text x="30" y="48" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">Financial Performance Dashboard</text>
+<text x="30" y="80" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.1">BUSINESS INTELLIGENCE  ·  DATA VISUALIZATION</text>
+<rect x="30" y="112" width="92" height="27" rx="6" fill="#F2C811"/>
+<text x="76.0" y="130" text-anchor="middle" fill="#161b22" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Power BI</text>
+<rect x="132" y="112" width="72" height="27" rx="6" fill="#217346"/>
+<text x="168.0" y="130" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Excel</text>
+<text x="30" y="169" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Projeto de análise de dados com Power BI, com análise descritiva e diagnóstica do desempenho comercial.</text>
+<text x="30" y="194" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Inclui organização dos dados, análise de indicadores e métricas relevantes e interpretação dos resultados</text>
+<text x="30" y="219" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">para apoiar a tomada de decisões.</text>
+</svg>
