@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+<title id="title">PetVida Sales Analysis</title>
+<desc id="desc">SALES ANALYTICS  ·  BUSINESS INTELLIGENCE  ·  DATA QUALITY. Análise comercial dos indicadores do e-commerce PetVida, com dashboard em Excel para apoiar a tomada de decisões. Inclui limpeza, organização e tratamento de dados e cruzamento de tabelas.</desc>
+<rect x="1" y="1" width="898" height="248" rx="16" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<text x="30" y="48" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">PetVida Sales Analysis</text>
+<text x="30" y="80" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.1">SALES ANALYTICS  ·  BUSINESS INTELLIGENCE  ·  DATA QUALITY</text>
+<rect x="30" y="112" width="72" height="27" rx="6" fill="#217346"/>
+<text x="66.0" y="130" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Excel</text>
+<rect x="112" y="112" width="133" height="27" rx="6" fill="#34A853"/>
+<text x="178.5" y="130" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Google Sheets</text>
+<text x="30" y="169" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Análise comercial dos indicadores do e-commerce PetVida, com dashboard em Excel para apoiar a tomada de</text>
+<text x="30" y="194" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">decisões. Inclui limpeza, organização e tratamento de dados e cruzamento de tabelas.</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+<title id="title">Apple Greenhouse Gas Emissions Analysis</title>
+<desc id="desc">DATA ANALYTICS  ·  ENVIRONMENTAL DATA  ·  2015–2022. Análise dos dados de emissões de gases de efeito estufa da Apple. Consultas, validação e manipulação com SQL, seguidas por análise exploratória e estatística com Python para visualização dos resultados.</desc>
+<rect x="1" y="1" width="898" height="248" rx="16" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<text x="30" y="48" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">Apple Greenhouse Gas Emissions Analysis</text>
+<text x="30" y="80" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.1">DATA ANALYTICS  ·  ENVIRONMENTAL DATA  ·  2015–2022</text>
+<rect x="30" y="112" width="72" height="27" rx="6" fill="#4479A1"/>
+<text x="66.0" y="130" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">MySQL</text>
+<rect x="112" y="112" width="76" height="27" rx="6" fill="#3776AB"/>
+<text x="150.0" y="130" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Python</text>
+<rect x="198" y="112" width="84" height="27" rx="6" fill="#F37626"/>
+<text x="240.0" y="130" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Jupyter</text>
+<rect x="292" y="112" width="76" height="27" rx="6" fill="#150458"/>
+<text x="330.0" y="130" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Pandas</text>
+<rect x="378" y="112" width="109" height="27" rx="6" fill="#11557C"/>
+<text x="432.5" y="130" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Matplotlib</text>
+<text x="30" y="169" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Análise dos dados de emissões de gases de efeito estufa da Apple. Consultas, validação e manipulação com</text>
+<text x="30" y="194" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">SQL, seguidas por análise exploratória e estatística com Python para visualização dos resultados.</text>
+</svg>
